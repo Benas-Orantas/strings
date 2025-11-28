@@ -38,13 +38,13 @@
 
 ## Write a JavaScript function to convert a string in abbreviated form.
 
-- console.log(abbrev_name("Robin Singh")); --> "Robin S." X
+- console.log(abbrev_name("Robin Singh")); --> "Robin S."
 
 ---
 
 ## Write a JavaScript function to hide email addresses to protect from unauthorized user.
 
--console.log(protect_email("robin_singh@example.com")); --> "robin...@example.com" X
+-console.log(protect_email("robin_singh@example.com")); --> "robin...@example.com"
 
 ---
 
